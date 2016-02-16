@@ -1,4 +1,7 @@
-# talklikeagent
+# TalkLikeAGent
 
 ##images:
-![alt tag](https://github.com/shivmalhotra/talklikeagent/blob/master/loadingscreen.png) ![alt tag](https://github.com/shivmalhotra/talklikeagent/blob/master/app.png)
+
+Loading Screen             |  Main App
+:-------------------------:|:-------------------------:
+![alt tag](https://github.com/shivmalhotra/talklikeagent/blob/master/loadingscreen.png)  |  ![alt tag](https://github.com/shivmalhotra/talklikeagent/blob/master/app.png)
